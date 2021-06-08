@@ -1,0 +1,256 @@
+Eros Case 1
+Coordinates of the computational point if the origin of the 
+coordinate system is located at the center of the mass: 
+X=2000,	Y=-1000, Z=-8000
+ 
+V = 4.266261515677942e+01 
+Vx = 1.013740553072075e-04 
+Vy = 5.800118697713704e-04 
+Vz = 3.615520911592928e-03 
+Vxx = -1.628721688135648e-07 
+Vyy = -4.219695436724516e-07 
+Vzz = 5.848417124860134e-07 
+Vxy = -7.714807864736007e-08 
+Vxz = 2.603906517767207e-08 
+Vyz = 1.930588687884725e-07 
+
+
+Eros Case 2
+Coordinates of the computational point if the origin of the 
+coordinate system is located at the center of the mass: 
+X=2000,	Y=-1000, Z=8000
+ 
+V = 4.202706554304505e+01 
+Vx = 6.545567901125616e-05 
+Vy = 5.689552598431802e-04 
+Vz = 3.357607047504953e-03 
+Vxx = -1.037209853094396e-07 
+Vyy = -3.704304243827311e-07 
+Vzz = 4.741514096921715e-07 
+Vxy = -7.216308195821982e-08 
+Vxz = -2.911738730139416e-08 
+Vyz = -1.821140702395668e-07 
+
+
+Eros Case 3
+Coordinates of the computational point if the origin of the 
+coordinate system is located at the center of the mass: 
+X=-17500,	Y=-2800,	Z=450
+
+V = 3.274016796160956e+01 
+Vx = 3.283741959783343e-03 
+Vy = 1.595047994105374e-03 
+Vz = 2.530604588573226e-04 
+Vxx = 7.695997895751194e-07 
+Vyy = -2.040563640724122e-07 
+Vzz = -5.655434255027064e-07 
+Vxy = 8.612134005312305e-07 
+Vxz = -1.783221790948223e-07 
+Vyz = -7.785082075123394e-08 
+
+
+Eros Case 4
+Coordinates of the computational point if the origin of the 
+coordinate system is located at the center of the mass: 
+X=-20000,	Y=-3200,	Z=450
+
+V = 2.618605755530049e+01 
+Vx = 1.869064159674019e-03 
+Vy = 6.287752995023459e-04 
+Vz = 6.692330897411277e-05 
+Vxx = 3.135658666794120e-07 
+Vyy = -1.234159490025733e-07 
+Vzz = -1.901499176768391e-07 
+Vxy = 1.938571961586879e-07 
+Vxz = -2.440523075408835e-08 
+Vyz = -6.178158403177942e-09 
+
+
+Eros Case 5
+Coordinates of the computational point if the origin of the 
+coordinate system is located at the center of the mass: 
+X=-50000,	Y=-5000,	Z=450
+
+V = 9.037945612727382e+00 
+Vx = 1.872420412012691e-04 
+Vy = 2.177748295187922e-05 
+Vz = 1.552884391865752e-06 
+Vxx = 7.890055800888785e-09 
+Vyy = -3.852010702209476e-09 
+Vzz = -4.038045098679710e-09 
+Vxy = 1.438670822766590e-09 
+Vxz = -9.849700096299675e-11 
+Vyz = -1.091350282679899e-11 
+
+
+Eros Case 6
+Coordinates of the computational point if the origin of the 
+coordinate system is located at the center of the mass: 
+X=-100000,	Y=-10000,	Z=450
+
+V = 4.441448156346001e+00 
+Vx = 4.444406408347320e-05 
+Vy = 4.633051114492490e-06 
+Vz = 1.806658931869659e-07 
+Vxx = 8.893048681100738e-10 
+Vyy = -4.369354971004712e-10 
+Vzz = -4.523693710106632e-10 
+Vxy = 1.415332384799938e-10 
+Vxz = -5.444100596850589e-12 
+Vyz = -5.635346148558057e-13 
+
+
+Eros Case 7
+Coordinates of the computational point if the origin of the 
+coordinate system is located at the center of the mass: 
+X=-17076,	Y=-2764,	Z=441
+ 
+V = 3.428204516293697e+01 
+Vx = 3.693671011808912e-03 
+Vy = 2.068320380287761e-03 
+Vz = 3.537087224954657e-04 
+Vxx = 1.271115507067766e-06 
+Vyy = -1.781154372458434e-07 
+Vzz = -1.093000069822000e-06 
+Vxy = 2.351704542105450e-06 
+Vxz = -5.321611206857818e-07 
+Vyz = -3.240282118162744e-07 
+
+
+Eros Case 8
+Coordinates of the computational point if the origin of the 
+coordinate system is located at the center of the mass: 
+X=50000,	Y=50000,	Z=50000
+
+V = 5.120658591820636e+00 
+Vx = 3.363733935829453e-05 
+Vy = 3.432870796019010e-05 
+Vz = 3.421591054267636e-05 
+Vxx = -1.861954444698311e-11 
+Vyy = 1.324375466650699e-11 
+Vzz = 5.375789779907684e-12 
+Vxy = 6.715133684252538e-10 
+Vxz = 6.709887282673868e-10 
+Vyz = 6.938192175709068e-10 
+
+
+Eros Case 9
+Coordinates of the computational point if the origin of the 
+coordinate system is located at the center of the mass: 
+X=-5000,	Y=-6000,	Z=-2000
+ 
+V = 4.299972066250422e+01 
+Vx = 8.310482155359949e-04 
+Vy = 3.219766214506928e-03 
+Vz = 8.669379382551553e-04 
+Vxx = -4.590868287011975e-08 
+Vyy = 4.431809309168582e-07 
+Vzz = -3.972722480467421e-07 
+Vxy = 8.258722237626124e-08 
+Vxz = 1.255401423463984e-08 
+Vyz = 2.214572617767321e-07 
+
+
+Eros Case 10
+Coordinates of the computational point if the origin of the 
+coordinate system is located at the center of the mass: 
+X=-5000,	Y=-6000,	Z=8000
+ 
+V = 3.383306823668818e+01 
+Vx = 5.214632071856309e-04 
+Vy = 1.418084343575067e-03 
+Vz = 1.657205752734603e-03 
+Vxx = -5.621006139960724e-08 
+Vyy = 6.309308407890174e-09 
+Vzz = 4.990075299171690e-08 
+Vxy = 3.078515548066027e-08 
+Vxz = -4.800690679675795e-08 
+Vyz = -2.315920724404219e-07
+
+
+Eros Case 11
+Coordinates of the computational point if the origin of the 
+coordinate system is located at the center of the mass: 
+X=15000,	Y=-9000,	Z=8000
+ 
+V = 2.537831623607379e+01 
+Vx = 9.801673310522569e-04 
+Vy = 8.547593748390907e-04 
+Vz = 9.358922861113769e-04 
+Vxx = -5.521030348867462e-09 
+Vyy = -2.019811893963113e-08 
+Vzz = 2.571914928849693e-08 
+Vxy = -1.044491948342743e-07 
+Vxz = 1.143591715159956e-07 
+Vyz = -1.168531887861392e-07 
+
+
+Eros Case 12
+Coordinates of the computational point if the origin of the 
+coordinate system is located at the center of the mass: 
+X=-40000,	Y=70000,	Z=50000
+ 
+V = 4.678607964392680e+00 
+Vx = 2.040496572451301e-05 
+Vy = 3.648342524600456e-05 
+Vz = 2.610487692445136e-05 
+Vxx = -2.521472338006499e-10 
+Vyy = 3.347040641064639e-10 
+Vzz = -8.255683030575059e-11 
+Vxy = -4.739028224857757e-10 
+Vxz = -3.387261650724911e-10 
+Vyz = 6.140504704313672e-10 
+
+
+Eros Case 13
+Coordinates of the computational point if the origin of the 
+coordinate system is located at the center of the mass: 
+X=400000,	Y=-700000,	Z=-500000
+ 
+V = 4.678929518082074e-01 
+Vx = 2.079041922730744e-07 
+Vy = 3.639004054177222e-07 
+Vz = 2.599570135819603e-07 
+Vxx = -2.426945169480261e-13 
+Vyy = 3.292372894832357e-13 
+Vzz = -8.654277269341002e-14 
+Vxy = -4.850537367762558e-13 
+Vxz = -3.464989986746925e-13 
+Vyz = 6.065755346218968e-13 
+
+
+Eros Case 14
+Coordinates of the computational point if the origin of the 
+coordinate system is located at the center of the mass: 
+X=-17075.3,	Y=-2763.85,	Z=440.763
+ 
+V = 3.428502545990566e+01 
+Vx = 3.695139918522525e-03 
+Vy = 2.070176607625581e-03 
+Vz = 3.538916254736712e-04 
+Vxx = -3.517138473045068e-06 
+Vyy = 3.316946073352814e-07 
+Vzz = 1.187258621535715e-07 
+Vxy = 2.765407932931963e-08 
+Vxz = -1.043809545062789e-05 
+Vyz = 6.952043492471918e-06
+
+
+Eros Case 15
+Coordinates of the computational point if the origin of the 
+coordinate system is located at the center of the mass: 
+X=5791.62,	Y=-3922.51,	Z=-4864.82
+ 
+V = 5.025666643190910e+01 
+Vx = 1.076043800170738e-04 
+Vy = 3.061881208109734e-03 
+Vz = 4.469583674233440e-03 
+Vxx = -3.882962934870379e-06 
+Vyy = 5.555914954363413e-06 
+Vzz = -4.521111997017198e-07 
+Vxy = 2.269484459007680e-06 
+Vxz = -5.277128139520779e-07 
+Vyz = -6.686017577917335e-07 
+
+
+
