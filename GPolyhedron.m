@@ -74,7 +74,7 @@ function [V,Vx,Vy,Vz,Vij]=GPolyhedron(G,p,topo,coords)
 %
 % Tsoulis D and Gavriilidou G (2021) A computational review of the 
 % line integral analytical formulation of the polyhedral gravity signal, 
-% Geophysical Prospecting, in review
+% Geophysical Prospecting, 69, (8-9), 1745-1760
 %
 %
 % (c) Authors: Dimitrios Tsoulis and Georgia Gavriilidou (April 2021)
